@@ -1,0 +1,21 @@
+.export-button {
+    background: #018749;
+    color: #fff;
+    border: none;
+    padding: 5px 8px;
+    font-size: 17px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .export-button img {
+    margin-right: 10px;
+    filter: invert(100%);
+  } 
+  .export-button:focus {
+    outline: none;
+  }
+  

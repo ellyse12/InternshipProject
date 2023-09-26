@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 24 24" id="excel" width="24px" height="24px" xmlns="http://www.w3.org/2000/svg">
+  <path fill="none" stroke="#303c42" stroke-linecap="round" stroke-linejoin="round" d="M 13.364 0.5 L 0.5 2.958 L 0.5 20.652 L 13.364 23.109 L 13.364 0.5 Z M 13.364 3.449 L 23.259 3.449 L 23.259 20.16 L 13.364 20.16" style=""/>
+  <path fill="none" stroke="#303c42" stroke-linecap="round" stroke-linejoin="round" d="M13.5 5.5h3v1h-3zM18.5 5.5h3v1h-3zM13.5 8.5h3v1h-3zM18.5 8.5h3v1h-3zM13.5 11.5h3v1h-3zM18.5 11.5h3v1h-3zM13.5 14.5h3v1h-3zM18.5 14.5h3v1h-3zM13.5 17.5h3v1h-3zM18.5 17.5h3v1h-3zM4.5 8.5l4 8M4.5 16.5l4-8"/>
+</svg>
